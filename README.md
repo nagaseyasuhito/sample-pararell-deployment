@@ -1,5 +1,6 @@
 Pararell Deployment Sample
 ==
+[![Build Status](https://travis-ci.org/nagaseyasuhito/sample-pararell-deployment.svg?branch=master)](https://travis-ci.org/nagaseyasuhito/sample-pararell-deployment)
 
 Setup
 --
